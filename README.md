@@ -3,8 +3,11 @@
 **Objective**
 
 1.Installations and Anonymity Check
+
 1.1 Install the needed applications
+
 1.2 If the applications are already installed, don’t install them again
+
 1.3 Check if the network connection is anonymous; if not, alert the user and exit
 1.4 If the network connection is anonymous, display the spoofed country name
 1.5 Allow the user to specify the address to scan via remote server; save into a variable
